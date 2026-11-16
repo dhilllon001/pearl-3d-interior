@@ -1,0 +1,26 @@
+[
+  {
+    "level": "B",
+    "label": "Basement"
+  },
+  {
+    "level": "G",
+    "label": "Ground Floor"
+  },
+  {
+    "level": "2",
+    "label": "2nd Floor"
+  },
+  {
+    "level": "3",
+    "label": "3rd Floor"
+  },
+  {
+    "level": "4",
+    "label": "4th Floor"
+  },
+  {
+    "level": "5",
+    "label": "5th Floor"
+  }
+]
