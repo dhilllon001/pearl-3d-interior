@@ -180,9 +180,11 @@ select {
 .viewport {
   position: relative;
   min-height: 0;
+  height: 100%;
   background: #9eb6c9;
 }
 
+.viewport > div,
 .viewport canvas {
   width: 100% !important;
   height: 100% !important;

@@ -18,6 +18,7 @@ export function SceneCanvas() {
   return (
     <Canvas
       shadows
+      style={{ width: '100%', height: '100%' }}
       camera={{
         position: [cx + 25, elev + 18, cz + 30],
         fov: 55,
